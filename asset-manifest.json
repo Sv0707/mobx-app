@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/mobx-app/static/css/main.c8c02bdd.css",
+    "main.js": "/mobx-app/static/js/main.1762fa4e.js",
+    "static/js/787.89a65803.chunk.js": "/mobx-app/static/js/787.89a65803.chunk.js",
+    "index.html": "/mobx-app/index.html",
+    "main.c8c02bdd.css.map": "/mobx-app/static/css/main.c8c02bdd.css.map",
+    "main.1762fa4e.js.map": "/mobx-app/static/js/main.1762fa4e.js.map",
+    "787.89a65803.chunk.js.map": "/mobx-app/static/js/787.89a65803.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.c8c02bdd.css",
+    "static/js/main.1762fa4e.js"
+  ]
+}
